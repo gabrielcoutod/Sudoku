@@ -10,6 +10,6 @@ pip install -e .
 ```
 python3 sudoku_game.py
 ```
-![Example](https://github.com/gabrielcoutod/Sudoku/blob/main/game_1.png)
-![Example](https://github.com/gabrielcoutod/Sudoku/blob/main/game_2.png)
-![Example](https://github.com/gabrielcoutod/Sudoku/blob/main/game_3.png)
+![Example](https://github.com/gabrielcoutod/Sudoku/blob/main/images/game_1.png)
+![Example](https://github.com/gabrielcoutod/Sudoku/blob/main/images/game_2.png)
+![Example](https://github.com/gabrielcoutod/Sudoku/blob/main/images/game_3.png)
